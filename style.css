@@ -1,0 +1,34 @@
+body{
+    background-size: cover;
+}
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: lightsalmon;
+    font-weight: bold;
+}
+.copy_right_footer{
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+    background-color: lightgray;
+    height: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    font-size: large;
+    
+}
+#status, #no_of_objects{
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+}
+canvas{
+    border-radius: 20px;
+    margin-top: 110px;
+    border:  2px solid ghostwhite;
+    box-shadow: 2px 2px 2px gold;
+}
